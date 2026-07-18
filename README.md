@@ -1,2 +1,2 @@
 # Matplotlib-Seaborn-Dump
-A Collection of Data Visualization code with Matplotlib and Seaborn
+A Workshop Archival Respository of Data Visualization code with Matplotlib and Seaborn
